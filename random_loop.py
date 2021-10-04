@@ -9,7 +9,7 @@ import random
 
 
 def main():
-    # this function loops until it exits out of a break if 
+    # this function loops until it exits out of a break if
     # the user guesses correctly, otherwise it loops back for the user to
     # restart guessing
 
